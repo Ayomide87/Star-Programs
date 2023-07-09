@@ -4,6 +4,7 @@ body{
     color: white;
     padding: 10px;
     justify-content: center;
+    align-items: center;
 }
 
 .voiceSpeak{
